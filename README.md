@@ -2,10 +2,8 @@
 
 <div align="center">
 
-![SRM Header](srm_diagram.png)
 
 **Bachelor of Technology — Aerospace Engineering**  
-*Sandip University Nashik | Department of Aero Engineering | AY 2022–2023*
 
 [![License](https://img.shields.io/badge/license-Academic-blue.svg)](LICENSE)
 [![University](https://img.shields.io/badge/university-Sandip%20University-orange.svg)](https://sandipuniversity.edu.in)
@@ -13,31 +11,15 @@
 [![Tools](https://img.shields.io/badge/tools-SolidWorks%20%7C%20ANSYS%20%7C%20OpenMotor-red.svg)]()
 
 </div>
-
----
-
-## 👥 Team
-
-| Name | PRN |
-|------|-----|
-| Sanket Bansode | 190101051007 |
-| Vaishnavi Sogalad | 190101051020 |
-| Mitali Jadhav | 190101051028 |
-| Pranay Malewar | 190101051030 |
-| Utkarsh Ninawe | 190101051045 |
-
-**Supervisor:** Dr. Ravi Krishna Swami Garigipati (Assistant Professor)  
-**HOD:** Prof. Dr. Vishal N Sulakhe
-
 ---
 
 ## 📋 Abstract
 
-This project presents the full design lifecycle of a **Solid Rocket Motor (SRM)** — from conceptual design and propellant formulation through CAD modeling, fabrication, and aerodynamic analysis. The motor uses **KNSU (Potassium Nitrate / Sucrose)** as propellant at an oxidizer-to-fuel ratio of **65:35**, with a convergent-divergent (CD) nozzle designed in **SolidWorks** and analyzed using **ANSYS Fluent** (1500 iterations). Simulation via **OpenMotor** software determined an expected thrust of **600–700 N**.
+This project presents the full design lifecycle of a **Solid Rocket Motor (SRM)** , from conceptual design and propellant formulation through CAD modeling, fabrication, and aerodynamic analysis. The motor uses **KNSU (Potassium Nitrate / Sucrose)** as propellant at an oxidizer-to-fuel ratio of **65:35**, with a convergent-divergent (CD) nozzle designed in **SolidWorks** and analyzed using **ANSYS Fluent** (1500 iterations). Simulation via **OpenMotor** software determined an expected thrust of **600–700 N**.
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 > *Watch the solid rocket motor propellant burn test and assembly demonstration*
 
@@ -47,7 +29,7 @@ The video showcases the propellant preparation (KNSU caramelization process), mo
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 solid-rocket-motor/
@@ -91,7 +73,7 @@ solid-rocket-motor/
 
 ---
 
-## 🛠️ Tools & Software
+## Tools & Software
 
 | Tool | Version | Purpose |
 |------|---------|---------|
@@ -102,7 +84,7 @@ solid-rocket-motor/
 
 ---
 
-## 🔩 CAD Design (SolidWorks)
+## CAD Design (SolidWorks)
 
 All components were designed using **SolidWorks 2021** with a bottom-up modeling approach.
 
@@ -157,12 +139,6 @@ All components were fabricated from **Mild Steel (MS)** using a **lathe machine*
 
 ### Manufactured Components
 
-<div align="center">
-
-| Fabricated Casing | Fabricated Nozzle |
-|:---:|:---:|
-| ![Casing](fabrication/fabricated_casing.png) | ![Nozzle](fabrication/fabricated_nozzle.png) |
-
 | Casing Component | Nozzle-Flange |
 |:---:|:---:|
 | ![Cylindrical Casing](fabrication/cylindrical_casing.png) | ![Flange](fabrication/nozzle_flange_front.png) |
@@ -206,7 +182,7 @@ All components were fabricated from **Mild Steel (MS)** using a **lathe machine*
 
 ---
 
-## 🔥 Propellant — KNSU
+## Propellant — KNSU
 
 **KNSU (Potassium Nitrate / Sucrose)** was chosen for its safety, availability, and moderate specific impulse.
 
@@ -242,11 +218,11 @@ All components were fabricated from **Mild Steel (MS)** using a **lathe machine*
 6. Insert Teflon coring rod to form tubular grain
 7. Cure for 2–4 hours; remove coring tool
 
-> ⚠️ **Safety Note:** KNSU is highly flammable. Handle only in open, ventilated areas with appropriate PPE. Never heat beyond 250°C to prevent caramelization loss.
+> **Safety Note:** KNSU is highly flammable. Handle only in open, ventilated areas with appropriate PPE. Never heat beyond 250°C to prevent caramelization loss.
 
 ---
 
-## 🌀 Grain Geometry
+## Grain Geometry
 
 ### Types of Grain Geometries
 
@@ -268,7 +244,7 @@ The **tubular (internal burning cylindrical) grain** was selected because it:
 
 ---
 
-## 📊 CFD Analysis (ANSYS Fluent)
+## CFD Analysis (ANSYS Fluent)
 
 The CD nozzle was analyzed using **ANSYS Fluent 2021 R2** with 1500 iterations.
 
@@ -293,7 +269,7 @@ Key findings:
 
 ---
 
-## 📈 Performance Parameters (OpenMotor)
+## Performance Parameters (OpenMotor)
 
 | Parameter | Value |
 |-----------|-------|
@@ -307,7 +283,7 @@ Cross-validation was performed using **Meteor** simulation software.
 
 ---
 
-## 📚 References
+## References
 
 1. Foltran et al., "Burning Rate Measurement of KNSu Propellant Obtained by Mechanical Press," *Journal of Aerospace Technology and Management*, May 2015
 2. Mohammed Iliyaas et al., "Computational Analysis of CD Nozzle for Solid Propellant Rocket," Anna University, Aug 2016
@@ -318,12 +294,6 @@ Cross-validation was performed using **Meteor** simulation software.
 
 ---
 
-## 🏫 Institution
-
-**Sandip University Nashik**  
-School of Engineering and Technology  
-Department of Aero Engineering  
-AY 2022–2023
 
 ---
 
