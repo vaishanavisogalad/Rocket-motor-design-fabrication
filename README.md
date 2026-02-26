@@ -6,12 +6,10 @@
 **Bachelor of Technology — Aerospace Engineering**  
 
 [![License](https://img.shields.io/badge/license-Academic-blue.svg)](LICENSE)
-[![University](https://img.shields.io/badge/university-Sandip%20University-orange.svg)](https://sandipuniversity.edu.in)
 [![Domain](https://img.shields.io/badge/domain-Aerospace%20Engineering-navy.svg)]()
 [![Tools](https://img.shields.io/badge/tools-SolidWorks%20%7C%20ANSYS%20%7C%20OpenMotor-red.svg)]()
 
 </div>
----
 
 ## Abstract
 
