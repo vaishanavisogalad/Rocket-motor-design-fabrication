@@ -1,4 +1,4 @@
-# 🚀 Modeling, Analysis, and Fabrication of Solid Rocket Motor
+# Modeling, Analysis, and Fabrication of Solid Rocket Motor
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 </div>
 ---
 
-## 📋 Abstract
+## Abstract
 
 This project presents the full design lifecycle of a **Solid Rocket Motor (SRM)** , from conceptual design and propellant formulation through CAD modeling, fabrication, and aerodynamic analysis. The motor uses **KNSU (Potassium Nitrate / Sucrose)** as propellant at an oxidizer-to-fuel ratio of **65:35**, with a convergent-divergent (CD) nozzle designed in **SolidWorks** and analyzed using **ANSYS Fluent** (1500 iterations). Simulation via **OpenMotor** software determined an expected thrust of **600–700 N**.
 
